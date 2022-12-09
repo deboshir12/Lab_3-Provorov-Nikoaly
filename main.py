@@ -83,4 +83,4 @@ points = start_points + plus_points - minus_points
 
 for i in range(3): 
     print(inventory[i])
-print('\nИтоговые очки выживания: ', points)
+print('Итоговые очки выживания: ', points)
